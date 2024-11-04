@@ -44,7 +44,7 @@ cd law-firm-registration
 Navigate to the server folder and install the necessary Python packages.
 ```bash
 cd server
-pip install Flask Flask-Migrate Flask-CORS Flask-SQLAlchemy python-dotenv pyodbc
+pip install Flask Flask-CORS Flask-SQLAlchemy python-dotenv pyodbc
 ```
 
 #### 2.2. Configure `.env` File
