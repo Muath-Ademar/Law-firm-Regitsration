@@ -1,4 +1,5 @@
 # Law Firm Registration Application
+![image](https://github.com/user-attachments/assets/9eec411e-047d-4438-abd1-df11230f6ab3)
 
 ## Overview
 This project is a Law Firm Registration application built using Next.js for the frontend and Flask (Python) for the backend. It allows users to register, check if their email exists in the database, and view their profile. 
